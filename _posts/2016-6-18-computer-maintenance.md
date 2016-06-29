@@ -2,7 +2,7 @@
 layout: post
 title: Simple computer maintainance
 ---
-
+Computer maintenance entails the following:
 
 ## Formatting disk drives
 

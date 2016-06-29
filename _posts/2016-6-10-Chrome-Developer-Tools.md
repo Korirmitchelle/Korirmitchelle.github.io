@@ -4,8 +4,6 @@ title: Chrome Developer Tools
 ---
  
 
-## Overview
-
 The Chrome Developer Tools (DevTools
 for short), are a set of web authoring and
 debugging tools built into Google
