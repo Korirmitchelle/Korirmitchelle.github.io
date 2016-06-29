@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Four major principles of Object-
-Oriented Programming (OOP)
+title: You're up and running!
 ---
 
 
