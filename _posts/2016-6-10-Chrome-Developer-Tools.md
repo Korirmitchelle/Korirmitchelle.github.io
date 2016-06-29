@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome Developer 
+title: Chrome Developer Tools
 ---
  
 
