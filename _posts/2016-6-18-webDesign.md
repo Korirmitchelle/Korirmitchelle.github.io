@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WEB DESIGN
+title: You're up and running!
 ---
  
 

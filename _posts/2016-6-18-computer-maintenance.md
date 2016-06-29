@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Maintenance Report
+title: You're up and running!
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DATABASE ADMINISTRATION
+title: You're up and running!
 ---
  
 
