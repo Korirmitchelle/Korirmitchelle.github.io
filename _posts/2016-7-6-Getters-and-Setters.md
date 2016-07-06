@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: Getters and Setters
 ---
+
 
 
 **Mutator** method is a method used to control changes to a variable. They are also widely known as **setter methods.** Often a setter is accompanied by a **getter** (also known as an accessor), which returns the value of the private member variable.
