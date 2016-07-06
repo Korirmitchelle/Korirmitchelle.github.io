@@ -3,6 +3,8 @@
 layout: post
 title: Getters and Setters
 ---
+
+
 **Mutator** method is a method used to control changes to a variable. They are also widely known as **setter methods.** Often a setter is accompanied by a **getter** (also known as an accessor), which returns the value of the private member variable.
 
 The mutator method is most often used in object-oriented programming, in keeping with the principle of **encapsulation.** According to this principle, member variables of a class are made private to hide and protect them from other code, and can only be modified by a public member function (the mutator method), which takes the desired new value as a parameter, optionally validates it, and modifies the private member variable.
