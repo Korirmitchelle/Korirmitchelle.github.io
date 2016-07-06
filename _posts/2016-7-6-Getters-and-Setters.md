@@ -17,7 +17,6 @@ In Java getters and setters are completely ordinary functions. The only thing th
 
 
    class Today
- 
    {
     private String name;
 
@@ -35,4 +34,6 @@ In Java getters and setters are completely ordinary functions. The only thing th
         this.name = name;
     }
 }
+
+
 The reason for using getters and setters instead of making your members public is that it makes it possible to change the implementation without changing the interface. Also, many tools and toolkits that use reflection to examine objects only accept objects that have getters and setters. JavaBeans for example must have getters and setters as well as some other requirements.
