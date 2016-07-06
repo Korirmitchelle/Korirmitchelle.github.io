@@ -16,8 +16,7 @@ In programming languages that support them, properties offer a convenient altern
 In Java getters and setters are completely ordinary functions. The only thing that makes them getters or setters is convention. A getter for foo is called getFoo and the setter is called setFoo. In the case of a boolean, the getter is called isFoo. They also must have a specific declaration as shown in this example of a getter and setter for 'name':
 
 
-
-   class Today  {
+    class Today  {
   
     private String name;
 
