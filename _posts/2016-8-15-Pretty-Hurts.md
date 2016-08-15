@@ -11,4 +11,4 @@ Most people are prejudiced towards beauty in that the beautiful are favored for 
 
 Beauty contests today apply this; How the questions are answered says alot about a person and is mostly used as a determining factor
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/PfLA_4wxJbQ)
+[![IMAGE ALT TEXT HERE](https://youtu.be/PfLA_4wxJbQ)](https://youtu.be/PfLA_4wxJbQ)
