@@ -22,3 +22,10 @@ Beauty contests today apply this; How the questions are answered says a lot abou
 Brilliant right? It depicts how ambitious a woman is and her future aspirations and how she maneuvers her way into success. It is quite a shame for one to loose a beauty contest  simply because they failed to answer a question as expected.
 
 Lets not tear each other down with mean and destructive remarks due myths that are unwarranted. Lead the pack from Steve Jobs, and let us fabricate a greater, brighter future. Looks aside!
+
+
+
+                                       “A beautiful woman is a beautiful woman, but a beautiful woman with a brain is an absolutely lethal combination.”
+                                            
+                                            
+                                            ― Prabal Gurung
