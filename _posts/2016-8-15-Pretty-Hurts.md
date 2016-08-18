@@ -25,7 +25,7 @@ Lets not tear each other down with mean and destructive remarks due myths that a
 
 
 
-                                       “A beautiful woman is a beautiful woman, but a beautiful woman with a brain is an absolutely lethal combination.”
+ >“A beautiful woman is a beautiful woman, but a beautiful woman with a brain is an absolutely lethal combination.”
                                             
                                             
-                                            ― Prabal Gurung
+ >>>― Prabal Gurung
